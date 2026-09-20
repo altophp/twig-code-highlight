@@ -5,6 +5,8 @@ themes as [ALTO Code Highlight](https://altophp.com/code-highlight). Use a block
 tag for source written in a template or a filter for source supplied as data.
 The generated HTML needs no browser-side highlighter.
 
+## Documentation
+
 - [Installation](installation.md)
 - [Getting started](getting-started.md)
 - [Tag](tag.md)
