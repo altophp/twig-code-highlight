@@ -56,12 +56,13 @@ Changes to public behavior should include tests and documentation.
 
 ## Support
 
-ALTO Twig Code Highlight is open source. You can support its continued development through
+ALTO Twig Code Highlight is open source and independently maintained by
+[Simon André](https://smnandre.dev). If it is useful to your work, you can
+support its continued development through
 [GitHub Sponsors](https://github.com/sponsors/smnandre).
 
-Sharing this package with others or
-[starring it on GitHub](https://github.com/altophp/twig-code-highlight) is also much
-appreciated.
+Sharing the package or
+[starring it on GitHub](https://github.com/altophp/twig-code-highlight) also helps.
 
 ## License
 
